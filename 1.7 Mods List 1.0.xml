@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-	<version>1.7.5000 rev1275</version>
+	<version>1.7.5005 rev1082</version>
 	<activeMods>
 		<li>brrainz.harmony</li>
 		<li>aleksey.betterstacktraces</li>
@@ -42,6 +42,7 @@
 		<li>k4g.core</li>
 		<li>yushiren.genesengineering</li>
 		<li>yushiren.customgenesbackgroundframework</li>
+		<li>lienzero.autolinks17</li>
 		<li>7h0m4s.rimworldreadablenumbers</li>
 		<li>jaxe.rimhud</li>
 		<li>ruoxue.rimhudfix</li>
@@ -64,7 +65,6 @@
 		<li>icezero.raidsummary</li>
 		<li>sbz.vanillastuffcolors</li>
 		<li>keyz182.keyzallowutilities</li>
-		<li>automatic.autolinks</li>
 		<li>segaswolf.pawneditor.fork</li>
 		<li>merthsoft.designatorshapes</li>
 		<li>latta.devl10n</li>
@@ -127,11 +127,11 @@
 		<li>vanillaracesexpanded.android</li>
 		<li>vanillaracesexpanded.fungoid</li>
 		<li>vanillaracesexpanded.genie</li>
-		<li>vanillaracesexpanded.saurid</li>
 		<li>vanillaracesexpanded.starjack</li>
 		<li>vanillaracesexpanded.waster</li>
 		<li>vanillaracesexpanded.archon</li>
 		<li>vanillaracesexpanded.sanguophage</li>
+		<li>vanillaracesexpanded.saurid</li>
 		<li>hlx.ultratechalteredcarbon</li>
 		<li>quatch.mechandroids</li>
 		<li>det.avaloi</li>
@@ -196,7 +196,6 @@
 		<li>ods.simpledoors</li>
 		<li>jecrell.doorsexpanded</li>
 		<li>morph.advanceddoors</li>
-		<li>neronix17.embrasures</li>
 		<li>cn.moreusefulmaterials</li>
 		<li>carnap2.tmaterials.glass</li>
 		<li>carnap2.tmaterials.unique</li>
@@ -265,6 +264,7 @@
 		<li>lingluo.pawncuter</li>
 		<li>nalzurin.autoimplanter</li>
 		<li>silver.brainvat</li>
+		<li>coredelta2.autoblooddrawer</li>
 		<li>farxmai2.genebanksexapnded</li>
 		<li>amch.eragon.hcgenefabrication</li>
 		<li>defi.generipper</li>
@@ -384,6 +384,7 @@
 		<li>3e27.deadmanswitch.extension.autoterminal</li>
 		<li>azzyh.deadmanswitch.unstablepowercellexpanded</li>
 		<li>nomadrw.turretvanillaretextureindustrialtheme</li>
+		<li>mortis.lfmrt</li>
 		<li>happycam.rimatomicsconsoleretexture</li>
 		<li>eh.cows.retexture</li>
 		<li>kittysmugglers.milkretexture</li>
@@ -401,14 +402,14 @@
 		<li>tidal.morevanilla.textures</li>
 		<li>mjcg.stopweathervisualeffect</li>
 		<li>amch.savefilecompression</li>
-		<li>yushiren.nofilth</li>
 		<li>telefonmast.graphicssettings</li>
 		<li>matvey24.fpsstabilizer</li>
+		<li>yushiren.nofilth</li>
 		<li>mlie.showmodupdates</li>
 		<li>mlie.savemodlistascollection</li>
-		<li>allvoid.modfolders</li>
 		<li>mlie.noversionwarning</li>
 		<li>ferny.betterarchitect</li>
+		<li>allvoid.modfolders</li>
 	</activeMods>
 	<knownExpansions>
 		<li>ludeon.rimworld.royalty</li>
